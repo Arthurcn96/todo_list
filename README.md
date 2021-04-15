@@ -1,6 +1,18 @@
-# todo_list
+<h1 align="center">
+  📱 Todo List 📱
+</h1>
 
-A new Flutter project.
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/Arthurcn96/todo_list?logo=github&style=for-the-badge">
+  <img src="https://img.shields.io/github/repo-size/Arthurcn96/todo_list?style=for-the-badge&logo=appveyor">
+  <img src="https://img.shields.io/badge/Status-Development-green?style=for-the-badge&logo=appveyor">
+</p>
+
+Projeto de um aplicativo de Desenvolvido em 📱 Flutter. 
+
+<p align="center">
+  <img height="400" src="https://raw.githubusercontent.com/Arthurcn96/todo_list/main/screen1.png">
+</p>
 
 ## Getting Started
 
