@@ -11,7 +11,7 @@
 Projeto de um aplicativo de Desenvolvido em 📱 Flutter. 
 
 <p align="center">
-  <img height="400" src="https://raw.githubusercontent.com/Arthurcn96/todo_list/main/screen1.png">
+  <img height="600" src="https://raw.githubusercontent.com/Arthurcn96/todo_list/main/screen1.png">
 </p>
 
 ## Getting Started
